@@ -1,7 +1,7 @@
-# [kubernetes_project_template](https://github.com/europanite/kubernetes_project_template "kubernetes_project_template")
+# [kubernetes-project-template](https://github.com/europanite/kubernetes-project-template "kubernetes-project-template")
 
-[![Validate Kubernetes Manifests](https://github.com/europanite/kubernetes_project_template/actions/workflows/validate-k8s-manifests.yml/badge.svg)](https://github.com/europanite/kubernetes_project_template/actions/workflows/validate-k8s-manifests.yml)
-[![pages](https://github.com/europanite/kubernetes_project_template/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/kubernetes_project_template/actions/workflows/pages/pages-build-deployment)
+[![Validate Kubernetes Manifests](https://github.com/europanite/kubernetes-project-template/actions/workflows/validate-k8s-manifests.yml/badge.svg)](https://github.com/europanite/kubernetes-project-template/actions/workflows/validate-k8s-manifests.yml)
+[![pages](https://github.com/europanite/kubernetes-project-template/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/kubernetes-project-template/actions/workflows/pages/pages-build-deployment)
 
 A small project that supports both **Docker Compose** and **Kubernetes**.
 
